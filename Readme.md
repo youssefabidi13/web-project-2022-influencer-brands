@@ -20,6 +20,7 @@ The purpose of this project is to provide an easy-to-use platform for Admins, In
 Thank you for considering this project description. We hope it meets your expectations and provides a great user experience for all parties involved.
 
 
-##Realise Par:ABKADRI AMINE--ABIDI YOUSSEF--AITALI ZAKARIA  
+##  Realise Par:
+ABKADRI AMINE--ABIDI YOUSSEF--AITALI ZAKARIA  
 
 
